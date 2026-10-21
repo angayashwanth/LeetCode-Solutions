@@ -44,6 +44,7 @@ A collection of LeetCode solutions in Python, C, and Java, documenting my journe
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [2540-minimum-common-value](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/2540-minimum-common-value) |
+| [2670-find-the-distinct-difference-array](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/2670-find-the-distinct-difference-array) |
 ## Matrix
 |  |
 | ------- |
@@ -52,6 +53,7 @@ A collection of LeetCode solutions in Python, C, and Java, documenting my journe
 |  |
 | ------- |
 | [2540-minimum-common-value](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/2540-minimum-common-value) |
+| [2670-find-the-distinct-difference-array](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/2670-find-the-distinct-difference-array) |
 ## Two Pointers
 |  |
 | ------- |
