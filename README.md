@@ -34,4 +34,12 @@ A collection of LeetCode solutions in Python, C, and Java, documenting my journe
 |  |
 | ------- |
 | [1952-three-divisors](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/1952-three-divisors) |
+## Array
+|  |
+| ------- |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
+## Matrix
+|  |
+| ------- |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
 <!---LeetCode Topics End-->
