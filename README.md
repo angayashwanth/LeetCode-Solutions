@@ -9,6 +9,7 @@ A collection of LeetCode solutions in Python, C, and Java, documenting my journe
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1518-water-bottles](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/1518-water-bottles) |
 | [1952-three-divisors](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/1952-three-divisors) |
+| [2443-sum-of-number-and-its-reverse](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/2443-sum-of-number-and-its-reverse) |
 | [2523-closest-prime-numbers-in-range](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/2523-closest-prime-numbers-in-range) |
 ## Number Theory
 |  |
@@ -32,6 +33,7 @@ A collection of LeetCode solutions in Python, C, and Java, documenting my journe
 |  |
 | ------- |
 | [1952-three-divisors](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/1952-three-divisors) |
+| [2443-sum-of-number-and-its-reverse](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/2443-sum-of-number-and-its-reverse) |
 ## Prime Factorization
 |  |
 | ------- |
