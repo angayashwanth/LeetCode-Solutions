@@ -6,10 +6,12 @@ A collection of LeetCode solutions in Python, C, and Java, documenting my journe
 ## Math
 |  |
 | ------- |
+| [1952-three-divisors](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/1952-three-divisors) |
 | [2523-closest-prime-numbers-in-range](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/2523-closest-prime-numbers-in-range) |
 ## Number Theory
 |  |
 | ------- |
+| [1952-three-divisors](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/1952-three-divisors) |
 | [2523-closest-prime-numbers-in-range](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/2523-closest-prime-numbers-in-range) |
 ## Primality Test
 |  |
@@ -18,9 +20,18 @@ A collection of LeetCode solutions in Python, C, and Java, documenting my journe
 ## Sieve Theory
 |  |
 | ------- |
+| [1952-three-divisors](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/1952-three-divisors) |
 | [2523-closest-prime-numbers-in-range](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/2523-closest-prime-numbers-in-range) |
 ## Prime Number Sieve
 |  |
 | ------- |
 | [2523-closest-prime-numbers-in-range](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/2523-closest-prime-numbers-in-range) |
+## Enumeration
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/1952-three-divisors) |
+## Prime Factorization
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/1952-three-divisors) |
 <!---LeetCode Topics End-->
