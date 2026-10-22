@@ -7,6 +7,7 @@ A collection of LeetCode solutions in Python, C, and Java, documenting my journe
 |  |
 | ------- |
 | [0640-solve-the-equation](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/0640-solve-the-equation) |
+| [0829-consecutive-numbers-sum](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/0829-consecutive-numbers-sum) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1518-water-bottles](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/1518-water-bottles) |
 | [1952-three-divisors](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/1952-three-divisors) |
@@ -33,6 +34,7 @@ A collection of LeetCode solutions in Python, C, and Java, documenting my journe
 ## Enumeration
 |  |
 | ------- |
+| [0829-consecutive-numbers-sum](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/0829-consecutive-numbers-sum) |
 | [1534-count-good-triplets](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/1534-count-good-triplets) |
 | [1952-three-divisors](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/1952-three-divisors) |
 | [2443-sum-of-number-and-its-reverse](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/2443-sum-of-number-and-its-reverse) |
