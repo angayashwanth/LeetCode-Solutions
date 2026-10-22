@@ -6,6 +6,7 @@ A collection of LeetCode solutions in Python, C, and Java, documenting my journe
 ## Math
 |  |
 | ------- |
+| [0640-solve-the-equation](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/0640-solve-the-equation) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1518-water-bottles](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/1518-water-bottles) |
 | [1952-three-divisors](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/1952-three-divisors) |
@@ -67,5 +68,14 @@ A collection of LeetCode solutions in Python, C, and Java, documenting my journe
 ## Simulation
 |  |
 | ------- |
+| [0640-solve-the-equation](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/0640-solve-the-equation) |
 | [1518-water-bottles](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/1518-water-bottles) |
+## String
+|  |
+| ------- |
+| [0640-solve-the-equation](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/0640-solve-the-equation) |
+## Linear Algebra
+|  |
+| ------- |
+| [0640-solve-the-equation](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/0640-solve-the-equation) |
 <!---LeetCode Topics End-->
