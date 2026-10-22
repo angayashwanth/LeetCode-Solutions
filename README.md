@@ -50,11 +50,13 @@ A collection of LeetCode solutions in Python, C, and Java, documenting my journe
 | [1534-count-good-triplets](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/1534-count-good-triplets) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [2540-minimum-common-value](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/2540-minimum-common-value) |
+| [2639-find-the-width-of-columns-of-a-grid](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/2639-find-the-width-of-columns-of-a-grid) |
 | [2670-find-the-distinct-difference-array](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/2670-find-the-distinct-difference-array) |
 ## Matrix
 |  |
 | ------- |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [2639-find-the-width-of-columns-of-a-grid](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/2639-find-the-width-of-columns-of-a-grid) |
 ## Hash Table
 |  |
 | ------- |
