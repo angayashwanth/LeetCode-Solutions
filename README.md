@@ -7,6 +7,7 @@ A collection of LeetCode solutions in Python, C, and Java, documenting my journe
 |  |
 | ------- |
 | [0640-solve-the-equation](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/0640-solve-the-equation) |
+| [0780-reaching-points](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/0780-reaching-points) |
 | [0829-consecutive-numbers-sum](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/0829-consecutive-numbers-sum) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1518-water-bottles](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/1518-water-bottles) |
@@ -80,4 +81,12 @@ A collection of LeetCode solutions in Python, C, and Java, documenting my journe
 |  |
 | ------- |
 | [0640-solve-the-equation](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/0640-solve-the-equation) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [0780-reaching-points](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/0780-reaching-points) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [0780-reaching-points](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/0780-reaching-points) |
 <!---LeetCode Topics End-->
