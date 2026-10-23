@@ -76,6 +76,7 @@ A collection of LeetCode solutions in Python, C, and Java, documenting my journe
 | [0287-find-the-duplicate-number](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [2540-minimum-common-value](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/2540-minimum-common-value) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [2825-make-string-a-subsequence-using-cyclic-increments](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/2825-make-string-a-subsequence-using-cyclic-increments) |
 ## Binary Search
 |  |
 | ------- |
@@ -92,6 +93,7 @@ A collection of LeetCode solutions in Python, C, and Java, documenting my journe
 |  |
 | ------- |
 | [0640-solve-the-equation](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/0640-solve-the-equation) |
+| [2825-make-string-a-subsequence-using-cyclic-increments](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/2825-make-string-a-subsequence-using-cyclic-increments) |
 ## Linear Algebra
 |  |
 | ------- |
