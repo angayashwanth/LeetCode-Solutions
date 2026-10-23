@@ -48,6 +48,7 @@ A collection of LeetCode solutions in Python, C, and Java, documenting my journe
 ## Array
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1534-count-good-triplets](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/1534-count-good-triplets) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
@@ -69,10 +70,12 @@ A collection of LeetCode solutions in Python, C, and Java, documenting my journe
 ## Two Pointers
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [2540-minimum-common-value](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/2540-minimum-common-value) |
 ## Binary Search
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [2540-minimum-common-value](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/2540-minimum-common-value) |
 ## Simulation
 |  |
@@ -95,4 +98,16 @@ A collection of LeetCode solutions in Python, C, and Java, documenting my journe
 |  |
 | ------- |
 | [0780-reaching-points](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/0780-reaching-points) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
