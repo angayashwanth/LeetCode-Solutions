@@ -57,6 +57,7 @@ A collection of LeetCode solutions in Python, C, and Java, documenting my journe
 | [2639-find-the-width-of-columns-of-a-grid](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/2639-find-the-width-of-columns-of-a-grid) |
 | [2670-find-the-distinct-difference-array](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/2670-find-the-distinct-difference-array) |
 | [2679-sum-in-a-matrix](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/2679-sum-in-a-matrix) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Matrix
 |  |
 | ------- |
@@ -74,11 +75,13 @@ A collection of LeetCode solutions in Python, C, and Java, documenting my journe
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [2540-minimum-common-value](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/2540-minimum-common-value) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Binary Search
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [2540-minimum-common-value](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/2540-minimum-common-value) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Simulation
 |  |
 | ------- |
@@ -117,6 +120,7 @@ A collection of LeetCode solutions in Python, C, and Java, documenting my journe
 |  |
 | ------- |
 | [2679-sum-in-a-matrix](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/2679-sum-in-a-matrix) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
