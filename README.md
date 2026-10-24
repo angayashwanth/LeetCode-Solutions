@@ -14,6 +14,7 @@ A collection of LeetCode solutions in Python, C, and Java, documenting my journe
 | [1952-three-divisors](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/1952-three-divisors) |
 | [2443-sum-of-number-and-its-reverse](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/2443-sum-of-number-and-its-reverse) |
 | [2523-closest-prime-numbers-in-range](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/2523-closest-prime-numbers-in-range) |
+| [2582-pass-the-pillow](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/2582-pass-the-pillow) |
 | [2614-prime-in-diagonal](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/2614-prime-in-diagonal) |
 ## Number Theory
 |  |
@@ -93,6 +94,7 @@ A collection of LeetCode solutions in Python, C, and Java, documenting my journe
 | ------- |
 | [0640-solve-the-equation](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/0640-solve-the-equation) |
 | [1518-water-bottles](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/1518-water-bottles) |
+| [2582-pass-the-pillow](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/2582-pass-the-pillow) |
 | [2679-sum-in-a-matrix](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/2679-sum-in-a-matrix) |
 ## String
 |  |
