@@ -15,12 +15,14 @@ A collection of LeetCode solutions in Python, C, and Java, documenting my journe
 | [2443-sum-of-number-and-its-reverse](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/2443-sum-of-number-and-its-reverse) |
 | [2523-closest-prime-numbers-in-range](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/2523-closest-prime-numbers-in-range) |
 | [2582-pass-the-pillow](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/2582-pass-the-pillow) |
+| [2607-make-k-subarray-sums-equal](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/2607-make-k-subarray-sums-equal) |
 | [2614-prime-in-diagonal](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/2614-prime-in-diagonal) |
 ## Number Theory
 |  |
 | ------- |
 | [1952-three-divisors](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/1952-three-divisors) |
 | [2523-closest-prime-numbers-in-range](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/2523-closest-prime-numbers-in-range) |
+| [2607-make-k-subarray-sums-equal](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/2607-make-k-subarray-sums-equal) |
 | [2614-prime-in-diagonal](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/2614-prime-in-diagonal) |
 ## Primality Test
 |  |
@@ -55,6 +57,7 @@ A collection of LeetCode solutions in Python, C, and Java, documenting my journe
 | [1534-count-good-triplets](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/1534-count-good-triplets) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [2540-minimum-common-value](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/2540-minimum-common-value) |
+| [2607-make-k-subarray-sums-equal](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/2607-make-k-subarray-sums-equal) |
 | [2614-prime-in-diagonal](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/2614-prime-in-diagonal) |
 | [2639-find-the-width-of-columns-of-a-grid](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/2639-find-the-width-of-columns-of-a-grid) |
 | [2670-find-the-distinct-difference-array](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/2670-find-the-distinct-difference-array) |
@@ -128,6 +131,7 @@ A collection of LeetCode solutions in Python, C, and Java, documenting my journe
 ## Sorting
 |  |
 | ------- |
+| [2607-make-k-subarray-sums-equal](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/2607-make-k-subarray-sums-equal) |
 | [2679-sum-in-a-matrix](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/2679-sum-in-a-matrix) |
 | [2780-minimum-index-of-a-valid-split](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/2780-minimum-index-of-a-valid-split) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -139,4 +143,8 @@ A collection of LeetCode solutions in Python, C, and Java, documenting my journe
 |  |
 | ------- |
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/2760-longest-even-odd-subarray-with-threshold) |
+## Greedy
+|  |
+| ------- |
+| [2607-make-k-subarray-sums-equal](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/2607-make-k-subarray-sums-equal) |
 <!---LeetCode Topics End-->
