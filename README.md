@@ -58,6 +58,7 @@ A collection of LeetCode solutions in Python, C, and Java, documenting my journe
 | [2639-find-the-width-of-columns-of-a-grid](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/2639-find-the-width-of-columns-of-a-grid) |
 | [2670-find-the-distinct-difference-array](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/2670-find-the-distinct-difference-array) |
 | [2679-sum-in-a-matrix](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/2679-sum-in-a-matrix) |
+| [2760-longest-even-odd-subarray-with-threshold](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/2760-longest-even-odd-subarray-with-threshold) |
 | [2765-longest-alternating-subarray](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/2765-longest-alternating-subarray) |
 | [2780-minimum-index-of-a-valid-split](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/2780-minimum-index-of-a-valid-split) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -132,4 +133,8 @@ A collection of LeetCode solutions in Python, C, and Java, documenting my journe
 |  |
 | ------- |
 | [2679-sum-in-a-matrix](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/2679-sum-in-a-matrix) |
+## Sliding Window
+|  |
+| ------- |
+| [2760-longest-even-odd-subarray-with-threshold](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/2760-longest-even-odd-subarray-with-threshold) |
 <!---LeetCode Topics End-->
