@@ -6,6 +6,7 @@ A collection of LeetCode solutions in Python, C, and Java, documenting my journe
 ## Math
 |  |
 | ------- |
+| [0060-permutation-sequence](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/0060-permutation-sequence) |
 | [0273-integer-to-english-words](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/0273-integer-to-english-words) |
 | [0640-solve-the-equation](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/0640-solve-the-equation) |
 | [0780-reaching-points](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/0780-reaching-points) |
@@ -157,5 +158,6 @@ A collection of LeetCode solutions in Python, C, and Java, documenting my journe
 ## Recursion
 |  |
 | ------- |
+| [0060-permutation-sequence](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/0060-permutation-sequence) |
 | [0273-integer-to-english-words](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/0273-integer-to-english-words) |
 <!---LeetCode Topics End-->
