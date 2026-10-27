@@ -113,6 +113,7 @@ A collection of LeetCode solutions in Python, C, and Java, documenting my journe
 | [0273-integer-to-english-words](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/0273-integer-to-english-words) |
 | [0640-solve-the-equation](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/0640-solve-the-equation) |
 | [0972-equal-rational-numbers](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/0972-equal-rational-numbers) |
+| [2315-count-asterisks](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/2315-count-asterisks) |
 | [2575-find-the-divisibility-array-of-a-string](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/2575-find-the-divisibility-array-of-a-string) |
 | [2825-make-string-a-subsequence-using-cyclic-increments](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/2825-make-string-a-subsequence-using-cyclic-increments) |
 ## Linear Algebra
