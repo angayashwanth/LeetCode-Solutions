@@ -62,6 +62,7 @@ A collection of LeetCode solutions in Python, C, and Java, documenting my journe
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1534-count-good-triplets](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/1534-count-good-triplets) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [2451-odd-string-difference](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/2451-odd-string-difference) |
 | [2540-minimum-common-value](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/2540-minimum-common-value) |
 | [2575-find-the-divisibility-array-of-a-string](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/2575-find-the-divisibility-array-of-a-string) |
 | [2607-make-k-subarray-sums-equal](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/2607-make-k-subarray-sums-equal) |
@@ -83,6 +84,7 @@ A collection of LeetCode solutions in Python, C, and Java, documenting my journe
 ## Hash Table
 |  |
 | ------- |
+| [2451-odd-string-difference](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/2451-odd-string-difference) |
 | [2540-minimum-common-value](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/2540-minimum-common-value) |
 | [2670-find-the-distinct-difference-array](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/2670-find-the-distinct-difference-array) |
 | [2780-minimum-index-of-a-valid-split](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/2780-minimum-index-of-a-valid-split) |
@@ -114,6 +116,7 @@ A collection of LeetCode solutions in Python, C, and Java, documenting my journe
 | [0640-solve-the-equation](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/0640-solve-the-equation) |
 | [0972-equal-rational-numbers](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/0972-equal-rational-numbers) |
 | [2315-count-asterisks](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/2315-count-asterisks) |
+| [2451-odd-string-difference](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/2451-odd-string-difference) |
 | [2575-find-the-divisibility-array-of-a-string](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/2575-find-the-divisibility-array-of-a-string) |
 | [2825-make-string-a-subsequence-using-cyclic-increments](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/2825-make-string-a-subsequence-using-cyclic-increments) |
 ## Linear Algebra
