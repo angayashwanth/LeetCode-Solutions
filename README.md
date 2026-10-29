@@ -87,6 +87,7 @@ A collection of LeetCode solutions in Python, C, and Java, documenting my journe
 | [2451-odd-string-difference](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/2451-odd-string-difference) |
 | [2540-minimum-common-value](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/2540-minimum-common-value) |
 | [2670-find-the-distinct-difference-array](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/2670-find-the-distinct-difference-array) |
+| [2716-minimize-string-length](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/2716-minimize-string-length) |
 | [2780-minimum-index-of-a-valid-split](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/2780-minimum-index-of-a-valid-split) |
 ## Two Pointers
 |  |
@@ -118,6 +119,7 @@ A collection of LeetCode solutions in Python, C, and Java, documenting my journe
 | [2315-count-asterisks](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/2315-count-asterisks) |
 | [2451-odd-string-difference](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/2451-odd-string-difference) |
 | [2575-find-the-divisibility-array-of-a-string](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/2575-find-the-divisibility-array-of-a-string) |
+| [2716-minimize-string-length](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/2716-minimize-string-length) |
 | [2825-make-string-a-subsequence-using-cyclic-increments](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/2825-make-string-a-subsequence-using-cyclic-increments) |
 ## Linear Algebra
 |  |
