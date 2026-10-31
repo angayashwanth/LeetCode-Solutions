@@ -63,6 +63,7 @@ A collection of LeetCode solutions in Python, C, and Java, documenting my journe
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1534-count-good-triplets](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/1534-count-good-triplets) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1914-cyclically-rotating-a-grid](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/1914-cyclically-rotating-a-grid) |
 | [2451-odd-string-difference](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/2451-odd-string-difference) |
 | [2540-minimum-common-value](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/2540-minimum-common-value) |
 | [2575-find-the-divisibility-array-of-a-string](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/2575-find-the-divisibility-array-of-a-string) |
@@ -80,6 +81,7 @@ A collection of LeetCode solutions in Python, C, and Java, documenting my journe
 | ------- |
 | [0835-image-overlap](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/0835-image-overlap) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1914-cyclically-rotating-a-grid](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/1914-cyclically-rotating-a-grid) |
 | [2614-prime-in-diagonal](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/2614-prime-in-diagonal) |
 | [2639-find-the-width-of-columns-of-a-grid](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/2639-find-the-width-of-columns-of-a-grid) |
 | [2679-sum-in-a-matrix](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/2679-sum-in-a-matrix) |
@@ -111,6 +113,7 @@ A collection of LeetCode solutions in Python, C, and Java, documenting my journe
 | [0640-solve-the-equation](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/0640-solve-the-equation) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1518-water-bottles](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/1518-water-bottles) |
+| [1914-cyclically-rotating-a-grid](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/1914-cyclically-rotating-a-grid) |
 | [2582-pass-the-pillow](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/2582-pass-the-pillow) |
 | [2679-sum-in-a-matrix](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/2679-sum-in-a-matrix) |
 ## String
