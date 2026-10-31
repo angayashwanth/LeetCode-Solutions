@@ -58,6 +58,7 @@ A collection of LeetCode solutions in Python, C, and Java, documenting my journe
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
+| [0835-image-overlap](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/0835-image-overlap) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1534-count-good-triplets](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/1534-count-good-triplets) |
@@ -77,6 +78,7 @@ A collection of LeetCode solutions in Python, C, and Java, documenting my journe
 ## Matrix
 |  |
 | ------- |
+| [0835-image-overlap](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/0835-image-overlap) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [2614-prime-in-diagonal](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/2614-prime-in-diagonal) |
 | [2639-find-the-width-of-columns-of-a-grid](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/2639-find-the-width-of-columns-of-a-grid) |
