@@ -84,6 +84,7 @@ A collection of LeetCode solutions in Python, C, and Java, documenting my journe
 ## Hash Table
 |  |
 | ------- |
+| [2325-decode-the-message](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/2325-decode-the-message) |
 | [2451-odd-string-difference](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/2451-odd-string-difference) |
 | [2540-minimum-common-value](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/2540-minimum-common-value) |
 | [2670-find-the-distinct-difference-array](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/2670-find-the-distinct-difference-array) |
@@ -117,6 +118,7 @@ A collection of LeetCode solutions in Python, C, and Java, documenting my journe
 | [0640-solve-the-equation](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/0640-solve-the-equation) |
 | [0972-equal-rational-numbers](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/0972-equal-rational-numbers) |
 | [2315-count-asterisks](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/2315-count-asterisks) |
+| [2325-decode-the-message](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/2325-decode-the-message) |
 | [2451-odd-string-difference](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/2451-odd-string-difference) |
 | [2575-find-the-divisibility-array-of-a-string](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/2575-find-the-divisibility-array-of-a-string) |
 | [2716-minimize-string-length](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/2716-minimize-string-length) |
