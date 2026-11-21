@@ -80,6 +80,7 @@ A collection of LeetCode solutions in Python, C, and Java, documenting my journe
 | [2765-longest-alternating-subarray](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/2765-longest-alternating-subarray) |
 | [2780-minimum-index-of-a-valid-split](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/2780-minimum-index-of-a-valid-split) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [3030-find-the-grid-of-region-average](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/3030-find-the-grid-of-region-average) |
 ## Matrix
 |  |
 | ------- |
@@ -89,6 +90,7 @@ A collection of LeetCode solutions in Python, C, and Java, documenting my journe
 | [2614-prime-in-diagonal](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/2614-prime-in-diagonal) |
 | [2639-find-the-width-of-columns-of-a-grid](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/2639-find-the-width-of-columns-of-a-grid) |
 | [2679-sum-in-a-matrix](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/2679-sum-in-a-matrix) |
+| [3030-find-the-grid-of-region-average](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/3030-find-the-grid-of-region-average) |
 ## Hash Table
 |  |
 | ------- |
