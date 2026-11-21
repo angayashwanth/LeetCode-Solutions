@@ -9,6 +9,7 @@ A collection of LeetCode solutions in Python, C, and Java, documenting my journe
 | [0060-permutation-sequence](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/0060-permutation-sequence) |
 | [0231-power-of-two](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0273-integer-to-english-words](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/0273-integer-to-english-words) |
+| [0326-power-of-three](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/0326-power-of-three) |
 | [0640-solve-the-equation](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/0640-solve-the-equation) |
 | [0780-reaching-points](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/0780-reaching-points) |
 | [0829-consecutive-numbers-sum](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/0829-consecutive-numbers-sum) |
@@ -179,4 +180,5 @@ A collection of LeetCode solutions in Python, C, and Java, documenting my journe
 | [0060-permutation-sequence](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/0060-permutation-sequence) |
 | [0231-power-of-two](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0273-integer-to-english-words](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/0273-integer-to-english-words) |
+| [0326-power-of-three](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
