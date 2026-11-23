@@ -6,6 +6,7 @@ A collection of LeetCode solutions in Python, C, and Java, documenting my journe
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
 | [0060-permutation-sequence](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/0060-permutation-sequence) |
 | [0231-power-of-two](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/0263-ugly-number) |
@@ -188,6 +189,7 @@ A collection of LeetCode solutions in Python, C, and Java, documenting my journe
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
 | [0060-permutation-sequence](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/0060-permutation-sequence) |
 | [0206-reverse-linked-list](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/0231-power-of-two) |
@@ -196,6 +198,7 @@ A collection of LeetCode solutions in Python, C, and Java, documenting my journe
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
 | [0141-linked-list-cycle](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
