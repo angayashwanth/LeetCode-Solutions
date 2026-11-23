@@ -191,6 +191,7 @@ A collection of LeetCode solutions in Python, C, and Java, documenting my journe
 | ------- |
 | [0002-add-two-numbers](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
 | [0060-permutation-sequence](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/0060-permutation-sequence) |
+| [0203-remove-linked-list-elements](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0273-integer-to-english-words](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/0273-integer-to-english-words) |
@@ -201,6 +202,7 @@ A collection of LeetCode solutions in Python, C, and Java, documenting my journe
 | [0002-add-two-numbers](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
 | [0141-linked-list-cycle](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0203-remove-linked-list-elements](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
