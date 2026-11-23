@@ -95,6 +95,7 @@ A collection of LeetCode solutions in Python, C, and Java, documenting my journe
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [2325-decode-the-message](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/2325-decode-the-message) |
 | [2451-odd-string-difference](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/2451-odd-string-difference) |
 | [2540-minimum-common-value](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/2540-minimum-common-value) |
@@ -105,6 +106,7 @@ A collection of LeetCode solutions in Python, C, and Java, documenting my journe
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0287-find-the-duplicate-number](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [2540-minimum-common-value](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/2540-minimum-common-value) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -161,6 +163,7 @@ A collection of LeetCode solutions in Python, C, and Java, documenting my journe
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0287-find-the-duplicate-number](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 ## Sorting
 |  |
@@ -193,5 +196,6 @@ A collection of LeetCode solutions in Python, C, and Java, documenting my journe
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
