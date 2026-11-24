@@ -134,6 +134,7 @@ A collection of LeetCode solutions in Python, C, and Java, documenting my journe
 | [0273-integer-to-english-words](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/0273-integer-to-english-words) |
 | [0640-solve-the-equation](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/0640-solve-the-equation) |
 | [0972-equal-rational-numbers](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/0972-equal-rational-numbers) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2315-count-asterisks](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/2315-count-asterisks) |
 | [2325-decode-the-message](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/2325-decode-the-message) |
 | [2451-odd-string-difference](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/2451-odd-string-difference) |
@@ -206,4 +207,8 @@ A collection of LeetCode solutions in Python, C, and Java, documenting my journe
 | [0206-reverse-linked-list](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/0328-odd-even-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/0876-middle-of-the-linked-list) |
+## Stack
+|  |
+| ------- |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 <!---LeetCode Topics End-->
