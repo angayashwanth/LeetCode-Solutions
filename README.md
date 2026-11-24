@@ -68,6 +68,7 @@ A collection of LeetCode solutions in Python, C, and Java, documenting my journe
 | [1534-count-good-triplets](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/1534-count-good-triplets) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1914-cyclically-rotating-a-grid](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/1914-cyclically-rotating-a-grid) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2012-sum-of-beauty-in-the-array](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/2012-sum-of-beauty-in-the-array) |
 | [2451-odd-string-difference](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/2451-odd-string-difference) |
 | [2540-minimum-common-value](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/2540-minimum-common-value) |
@@ -215,8 +216,13 @@ A collection of LeetCode solutions in Python, C, and Java, documenting my journe
 | [0020-valid-parentheses](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/1944-number-of-visible-people-in-a-queue) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/1944-number-of-visible-people-in-a-queue) |
 <!---LeetCode Topics End-->
