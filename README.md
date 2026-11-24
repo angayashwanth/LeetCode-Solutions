@@ -131,6 +131,7 @@ A collection of LeetCode solutions in Python, C, and Java, documenting my journe
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0273-integer-to-english-words](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/0273-integer-to-english-words) |
 | [0640-solve-the-equation](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/0640-solve-the-equation) |
 | [0972-equal-rational-numbers](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/0972-equal-rational-numbers) |
@@ -211,6 +212,11 @@ A collection of LeetCode solutions in Python, C, and Java, documenting my journe
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
