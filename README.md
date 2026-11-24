@@ -135,6 +135,7 @@ A collection of LeetCode solutions in Python, C, and Java, documenting my journe
 | [0640-solve-the-equation](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/0640-solve-the-equation) |
 | [0972-equal-rational-numbers](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/0972-equal-rational-numbers) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [2315-count-asterisks](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/2315-count-asterisks) |
 | [2325-decode-the-message](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/2325-decode-the-message) |
 | [2451-odd-string-difference](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/2451-odd-string-difference) |
@@ -211,4 +212,5 @@ A collection of LeetCode solutions in Python, C, and Java, documenting my journe
 |  |
 | ------- |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 <!---LeetCode Topics End-->
