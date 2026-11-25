@@ -66,6 +66,7 @@ A collection of LeetCode solutions in Python, C, and Java, documenting my journe
 | [0162-find-peak-element](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
+| [0349-intersection-of-two-arrays](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [0835-image-overlap](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/0835-image-overlap) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/1252-cells-with-odd-values-in-a-matrix) |
@@ -104,6 +105,7 @@ A collection of LeetCode solutions in Python, C, and Java, documenting my journe
 | [0141-linked-list-cycle](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0268-missing-number](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [2325-decode-the-message](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/2325-decode-the-message) |
 | [2451-odd-string-difference](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/2451-odd-string-difference) |
 | [2540-minimum-common-value](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/2540-minimum-common-value) |
@@ -116,6 +118,7 @@ A collection of LeetCode solutions in Python, C, and Java, documenting my journe
 | [0141-linked-list-cycle](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0287-find-the-duplicate-number](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
+| [0349-intersection-of-two-arrays](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0876-middle-of-the-linked-list](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/0876-middle-of-the-linked-list) |
 | [2540-minimum-common-value](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/2540-minimum-common-value) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -127,6 +130,7 @@ A collection of LeetCode solutions in Python, C, and Java, documenting my journe
 | [0162-find-peak-element](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
+| [0349-intersection-of-two-arrays](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [2540-minimum-common-value](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/2540-minimum-common-value) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -186,6 +190,7 @@ A collection of LeetCode solutions in Python, C, and Java, documenting my journe
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [2607-make-k-subarray-sums-equal](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/2607-make-k-subarray-sums-equal) |
 | [2679-sum-in-a-matrix](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/2679-sum-in-a-matrix) |
 | [2780-minimum-index-of-a-valid-split](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/2780-minimum-index-of-a-valid-split) |
