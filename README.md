@@ -158,6 +158,7 @@ A collection of LeetCode solutions in Python, C, and Java, documenting my journe
 | [2575-find-the-divisibility-array-of-a-string](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/2575-find-the-divisibility-array-of-a-string) |
 | [2716-minimize-string-length](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/2716-minimize-string-length) |
 | [2825-make-string-a-subsequence-using-cyclic-increments](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/2825-make-string-a-subsequence-using-cyclic-increments) |
+| [3913-sort-vowels-by-frequency](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/3913-sort-vowels-by-frequency) |
 ## Linear Algebra
 |  |
 | ------- |
@@ -195,6 +196,7 @@ A collection of LeetCode solutions in Python, C, and Java, documenting my journe
 | [2679-sum-in-a-matrix](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/2679-sum-in-a-matrix) |
 | [2780-minimum-index-of-a-valid-split](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/2780-minimum-index-of-a-valid-split) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [3913-sort-vowels-by-frequency](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/3913-sort-vowels-by-frequency) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -242,4 +244,8 @@ A collection of LeetCode solutions in Python, C, and Java, documenting my journe
 |  |
 | ------- |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/1944-number-of-visible-people-in-a-queue) |
+## Counting
+|  |
+| ------- |
+| [3913-sort-vowels-by-frequency](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/3913-sort-vowels-by-frequency) |
 <!---LeetCode Topics End-->
