@@ -62,6 +62,7 @@ A collection of LeetCode solutions in Python, C, and Java, documenting my journe
 ## Array
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
@@ -122,6 +123,7 @@ A collection of LeetCode solutions in Python, C, and Java, documenting my journe
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
