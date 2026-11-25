@@ -62,6 +62,7 @@ A collection of LeetCode solutions in Python, C, and Java, documenting my journe
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
+| [0704-binary-search](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [0835-image-overlap](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/0835-image-overlap) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
@@ -118,6 +119,7 @@ A collection of LeetCode solutions in Python, C, and Java, documenting my journe
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
+| [0704-binary-search](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [2540-minimum-common-value](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/2540-minimum-common-value) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Simulation
