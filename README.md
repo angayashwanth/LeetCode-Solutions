@@ -64,6 +64,7 @@ A collection of LeetCode solutions in Python, C, and Java, documenting my journe
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/0162-find-peak-element) |
+| [0239-sliding-window-maximum](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
@@ -200,10 +201,12 @@ A collection of LeetCode solutions in Python, C, and Java, documenting my journe
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/0239-sliding-window-maximum) |
 | [2679-sum-in-a-matrix](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/2679-sum-in-a-matrix) |
 ## Sliding Window
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/0239-sliding-window-maximum) |
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/2760-longest-even-odd-subarray-with-threshold) |
 ## Greedy
 |  |
@@ -248,4 +251,16 @@ A collection of LeetCode solutions in Python, C, and Java, documenting my journe
 |  |
 | ------- |
 | [3913-sort-vowels-by-frequency](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/3913-sort-vowels-by-frequency) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/0239-sliding-window-maximum) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
