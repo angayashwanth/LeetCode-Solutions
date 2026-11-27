@@ -8,6 +8,7 @@ A collection of LeetCode solutions in Python, C, and Java, documenting my journe
 | ------- |
 | [0002-add-two-numbers](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
 | [0060-permutation-sequence](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/0060-permutation-sequence) |
+| [0202-happy-number](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/0268-missing-number) |
@@ -106,6 +107,7 @@ A collection of LeetCode solutions in Python, C, and Java, documenting my journe
 | ------- |
 | [0141-linked-list-cycle](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [2325-decode-the-message](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/2325-decode-the-message) |
@@ -119,6 +121,7 @@ A collection of LeetCode solutions in Python, C, and Java, documenting my journe
 | ------- |
 | [0141-linked-list-cycle](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0876-middle-of-the-linked-list](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/0876-middle-of-the-linked-list) |
@@ -189,6 +192,7 @@ A collection of LeetCode solutions in Python, C, and Java, documenting my journe
 | ------- |
 | [0141-linked-list-cycle](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 ## Sorting
 |  |
