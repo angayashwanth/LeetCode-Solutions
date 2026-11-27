@@ -7,6 +7,7 @@ A collection of LeetCode solutions in Python, C, and Java, documenting my journe
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
+| [0029-divide-two-integers](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/0029-divide-two-integers) |
 | [0060-permutation-sequence](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/0060-permutation-sequence) |
 | [0202-happy-number](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/0231-power-of-two) |
@@ -180,6 +181,7 @@ A collection of LeetCode solutions in Python, C, and Java, documenting my journe
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/0029-divide-two-integers) |
 | [0231-power-of-two](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
