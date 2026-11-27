@@ -277,17 +277,21 @@ A collection of LeetCode solutions in Python, C, and Java, documenting my journe
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0102-binary-tree-level-order-traversal](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/0102-binary-tree-level-order-traversal) |
+| [0199-binary-tree-right-side-view](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/0199-binary-tree-right-side-view) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0199-binary-tree-right-side-view](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/0199-binary-tree-right-side-view) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0102-binary-tree-level-order-traversal](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/0102-binary-tree-level-order-traversal) |
+| [0199-binary-tree-right-side-view](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/0199-binary-tree-right-side-view) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/0102-binary-tree-level-order-traversal) |
+| [0199-binary-tree-right-side-view](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/0199-binary-tree-right-side-view) |
 <!---LeetCode Topics End-->
