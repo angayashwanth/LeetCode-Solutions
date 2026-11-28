@@ -280,6 +280,7 @@ A collection of LeetCode solutions in Python, C, and Java, documenting my journe
 | [0104-maximum-depth-of-binary-tree](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0513-find-bottom-left-tree-value](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/0513-find-bottom-left-tree-value) |
+| [0700-search-in-a-binary-search-tree](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/0700-search-in-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -295,6 +296,7 @@ A collection of LeetCode solutions in Python, C, and Java, documenting my journe
 | [0104-maximum-depth-of-binary-tree](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0513-find-bottom-left-tree-value](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/0513-find-bottom-left-tree-value) |
+| [0700-search-in-a-binary-search-tree](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/0700-search-in-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -302,4 +304,8 @@ A collection of LeetCode solutions in Python, C, and Java, documenting my journe
 | [0104-maximum-depth-of-binary-tree](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0513-find-bottom-left-tree-value](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/0513-find-bottom-left-tree-value) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/0700-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
