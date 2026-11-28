@@ -279,6 +279,7 @@ A collection of LeetCode solutions in Python, C, and Java, documenting my journe
 | [0102-binary-tree-level-order-traversal](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/0513-find-bottom-left-tree-value) |
 | [0700-search-in-a-binary-search-tree](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/0700-search-in-a-binary-search-tree) |
 ## Depth-First Search
@@ -287,6 +288,7 @@ A collection of LeetCode solutions in Python, C, and Java, documenting my journe
 | [0094-binary-tree-inorder-traversal](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/0513-find-bottom-left-tree-value) |
 ## Binary Tree
 |  |
@@ -295,6 +297,7 @@ A collection of LeetCode solutions in Python, C, and Java, documenting my journe
 | [0102-binary-tree-level-order-traversal](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/0513-find-bottom-left-tree-value) |
 | [0700-search-in-a-binary-search-tree](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/0700-search-in-a-binary-search-tree) |
 ## Breadth-First Search
@@ -307,5 +310,14 @@ A collection of LeetCode solutions in Python, C, and Java, documenting my journe
 ## Binary Search Tree
 |  |
 | ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/0700-search-in-a-binary-search-tree) |
+## Binary Lifting
+|  |
+| ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Lowest Common Ancestor
+|  |
+| ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/angayashwanth/LeetCode-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 <!---LeetCode Topics End-->
